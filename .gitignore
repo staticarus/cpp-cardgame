@@ -1,0 +1,10 @@
+.vscode/
+.idea/
+.src/sqlite3/shell.c
+.src/sqlite3/sqlite3.c
+.src/sqlite3/sqlite3ext.h
+.src/sqlite3/sqlite3.h
+.src/sqlite3/sqlite3.o
+src/sqlite3/MLDc++.jpg
+*.exe
+*.pdf
