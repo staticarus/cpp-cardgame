@@ -4,7 +4,7 @@ A project made with a friend in 2021 for a school assignment. This is a UNO-like
 
 Compilator used is MinGW/g++ which have to be installed first, then run `AutoLunch.bat` to launch the main game.
 
-Database used is a portable SQLite `parties.db` file, that you can run with `AutoSQL.bat`.
+Database used is a portable SQLite `parties.db` file, that you can run with `AutoSQL.bat` (you need the sqlite3.o and .h files from the corresponding library).
 - - -
 
 ### Features
