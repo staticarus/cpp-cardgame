@@ -2,7 +2,7 @@
 
 A project made with a friend in 2021 for a school assignment. This is a UNO-like card game written in C++11, playable in the console, and there is also a SQLite database to store various information (games, players and scores, cards played).
 
-Compilator used is MinGW/g++ which have to be installed first, then run `AutoLunch.bat` to launch the main game.
+Compilator used is MinGW/g++ which has to be installed first, then run `AutoLunch.bat` to launch the main game.
 
 Database used is a portable SQLite `parties.db` file, that you can run with `AutoSQL.bat` (you need the sqlite3.o and .h files from the corresponding library).
 - - -
